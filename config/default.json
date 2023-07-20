@@ -1,0 +1,18 @@
+{
+  "login": {
+    "user": "your.username",
+    "pass": "your.pass",
+    "id": "your.company.id"
+  },
+  "project": "your.project.number",
+  "activity": "your.activity.number",
+  "hours": {
+    "Monday": "0500",
+    "Tuesday": "0700",
+    "Wednesday": "0800",
+    "Thursday": "0900",
+    "Friday": "0700",
+    "Saturday": "0000",
+    "Sunday": "0000"
+  }
+}
