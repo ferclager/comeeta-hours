@@ -1,4 +1,4 @@
-FROM node:20.11-bookworm-slim
+FROM node:20.13.1-bookworm-slim
 
 COPY ["package.json", "package-lock.json", "/usr/src/"]
 WORKDIR /usr/src
